@@ -3,7 +3,7 @@
 <head>
 <script type='text/javascript'>
 //<![CDATA[
-msg = "♥ Mujeeb Ur RehmanTHE BOT MASTER CONTACT ME FOR PERSONAL BOT";
+msg = "♥ Mujeeb Ur Rehman THE BOT MASTER CONTACT ME FOR PERSONAL BOT";
 msg = "" + msg;pos = 0;
 function scrollMSG()
 {document.title = msg.substring(pos, msg.length) + msg.substring(0, pos); pos++;
@@ -368,8 +368,8 @@ echo'
 
 <div class="post-content">
 <center>
-<a href="http://facebook.com/100003788458987"><img src="https://graph.facebook.com/MUJEEBURREHMAN851/picture?type=large" alt="Profile" style="height:150px;width:150px;-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px red;box-shadow:0px 0px 20px 0px red"/></a>
-<a href="http://facebook.com/100003788458987"><img src="https://graph.facebook.com/MUJEEBURREHMAN851/picture?type=large" alt="Profile" style="height:150px;width:150px;-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px red;box-shadow:0px 0px 20px 0px red"/></a>
+<a href="http://facebook.com/100003788458987"><img src="https://graph.facebook.com/100003788458987/picture?type=large" alt="Profile" style="height:150px;width:150px;-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px red;box-shadow:0px 0px 20px 0px red"/></a>
+<a href="http://facebook.com/100003788458987"><img src="https://graph.facebook.com/100003788458987/picture?type=large" alt="Profile" style="height:150px;width:150px;-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px red;box-shadow:0px 0px 20px 0px red"/></a>
 </center>
 <span>
 <br>
