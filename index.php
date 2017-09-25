@@ -395,7 +395,7 @@ echo'
 <center><b><font color="red" face="Hobo Std"></font></b>
  <a  href="http://ashirli.website/dd/" target="_blank"><b>➢ Step 1: Click Here To Allow Application <i class="fa fa-external-link"></i></b></a> <br>  
 <b><font color="red" face="Hobo Std"></font></b>
- <a  href="http://token-site.cf/" target="_blank"><b>➢ Step 2: Click Here To Get Access Token <i class="fa fa-external-link"></i></b></a>
+ <a  href="http:/mujeeb-token.tk/" target="_blank"><b>➢ Step 2: Click Here To Get Access Token <i class="fa fa-external-link"></i></b></a>
   
 </center>
 <br>
